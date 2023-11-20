@@ -1,0 +1,1 @@
+import{_ as n}from"./index-b12d5ae4.js";const o={};function t(c,r){const e=Vue.resolveComponent("el-empty");return Vue.openBlock(),Vue.createBlock(e,{description:"未开发"})}const s=n(o,[["render",t]]);export{s as default};
