@@ -1,0 +1,1 @@
+import{B as e}from"./index-0d643a49.js";const a=(r,s)=>e.get(`/products/brands/getBrands/${r}/${s}`),t=r=>r._id?(console.log(`data.id= ${r._id}`),e.post("/products/brands/updateBrand",r)):e.post("/products/brands/addBrand",r),n=r=>e.get("/products/brands/deleteBrand/"+r),o=()=>e.get("/products/brands/getAllBrandsName/");export{t as a,n as b,o as c,a as r};
